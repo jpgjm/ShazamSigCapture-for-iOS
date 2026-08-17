@@ -1,0 +1,9 @@
+Package: com.anony.shazamsigcap
+Name: ShazamSigCapture-for-iOS
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Description: Capture X-Apple-ActionSignature / X-Request-Timestamp from Shazam iOS into an ST-Handlers key.json
+Maintainer: anony
+Author: anony
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
